@@ -1,0 +1,55 @@
+.ttaf{
+    margin-left: 350px;
+    margin-right:2100px;
+    font-family: sans-serif;
+    background-color:#ffffff;
+    border-width: 1.5px;
+    border-style: solid;
+}
+
+h2{
+    color:rgb(33, 38, 41);
+    font-family:sans-serif;
+    width:100%;
+    margin-left:100px;
+}
+
+article{
+    background-color: rgba(8, 104, 128, 0.479))
+}
+.partymember{
+    font-family: sans-serif;
+
+}
+
+p{
+    font-size: 14px;
+    color:#220606;
+    font-family: sans-serif;
+}
+
+body{
+    background-color:rgba(8, 104, 128, 0.479);
+}
+img{
+    height:300px;
+    width:400px;
+}
+
+main img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+party{
+    font-size:20px;
+}
+
+/*
+TODO:
+Center h1 and h2 headings
+Define class for first p to style differently than other p
+define p in party description
+*/
